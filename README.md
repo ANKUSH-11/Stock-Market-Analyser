@@ -54,42 +54,36 @@ pip install -r requirements.txt
 
 ### Data Collection
 
-To collect stock market data, you can use various data sources such as Yahoo Finance, Alpha Vantage, or other financial APIs. Update the data collection script (`collect_data.py`) with the desired stock symbols, date range, and data source.
+To collect stock market data, I used various data source Yahoo Financel APIs. Update the data collection script (`collect_data.py`) with the desired stock symbols, date range, and data source.
 
-```bash
-python collect_data.py
-```
+
 
 ### Data Preprocessing
 
-Data preprocessing is crucial for preparing the collected data for training the LSTM model. Run the preprocessing script (`preprocess_data.py`) to clean, normalize, and transform the data.
+Data preprocessing is crucial for preparing the collected data for training the LSTM model. to clean, normalize, and transform the data.
 
-```bash
-python preprocess_data.py
-```
 
 ### Model Training
 
 Train the LSTM model using the preprocessed data. The architecture and hyperparameters of the model can be configured in the `train_model.py` script.
+visit keras_model.h5,LSTM model.ipynb
 
-```bash
-python train_model.py
-```
 
 ### Prediction
 
 Use the trained LSTM model to make predictions on unseen data. Update the `predict.py` script with the necessary inputs and run it.
 
 ```bash
-python predict.py
+app.py 
 ```
-
+run it in terminal using "Streamlit run app.py"
 ## Results
-![1](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/29fc1f43-8c30-4477-83b7-c7ef4063d8a7)
-![2](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/a63c4610-6102-4e99-8d17-6fab566ada98)
-![3](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/d1175c8f-3dab-4c58-952c-5daf3b89b616)
-![4](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/56f6ed1c-efaa-4f4f-8e9b-99ed29e5a425)
-![5](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/43bcdb24-ef75-4abc-a926-63e8a8d5bbb9)
+![1 1](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/ef1b5f8f-cd4a-4ce9-ac36-c97c57fc3161)
+![2 2](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/09fae5f2-ec15-4ae5-8b1a-ed08340009e5)
+![3 3](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/e0c240d5-b308-4fa3-ad21-2cf76bd22907)
+![4 4](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/b8acb6cb-303d-483f-bdd6-d0ccf7a734ef)
+![5 5](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/0b06c9f6-8133-47c4-bbee-b9142e3a33b1)
+
 
 
 
