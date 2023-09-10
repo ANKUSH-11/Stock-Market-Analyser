@@ -1,8 +1,5 @@
 # Stock-Market-Analyser
 
-
-![Stock Market Analyzer](images/stock_analyzer.png)
-
 The Stock Market Analyzer is a project that uses Long Short-Term Memory (LSTM) neural networks to analyze and predict stock prices. This repository contains the code and resources needed to train and utilize the LSTM model for stock market analysis.
 
 ## Table of Contents
