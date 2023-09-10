@@ -78,11 +78,12 @@ app.py
 ```
 run it in terminal using "Streamlit run app.py"
 ## Results
-![1 1](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/ef1b5f8f-cd4a-4ce9-ac36-c97c57fc3161)
-![2 2](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/09fae5f2-ec15-4ae5-8b1a-ed08340009e5)
-![3 3](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/e0c240d5-b308-4fa3-ad21-2cf76bd22907)
-![4 4](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/b8acb6cb-303d-483f-bdd6-d0ccf7a734ef)
-![5 5](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/0b06c9f6-8133-47c4-bbee-b9142e3a33b1)
+![1 1](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/6de99cfc-1070-4529-a70f-9e537ecf1672)
+![2 2](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/4d13eb54-d7a8-43e5-8253-88a050084604)
+![3 3](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/82ee197b-7d74-43bf-b5b4-38638cc23fcb)
+![4 4](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/e5d616c5-0d0f-42dc-ad33-4a57d3195c2c)
+![5 5](https://github.com/ANKUSH-11/Stock-Market-Analyser/assets/84002890/75057ab6-071d-484e-a559-55c9e7095481)
+
 
 
 
